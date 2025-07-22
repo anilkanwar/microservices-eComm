@@ -2,7 +2,6 @@
 
 On a high level, the following topics are covered in the course on a Real Time multi microservice architectured E-commerce application.
 
-End to End DevOps Implementation on a E-Commerce project with Resume preparation and Interview Q&A.
 
 1. Introduction to the project
 2. A detailed overview of the project
@@ -45,7 +44,4 @@ End to End DevOps Implementation on a E-Commerce project with Resume preparation
 39. GitHub Actions setup for a micro service of the project
 40. CI/CD for the project
 41. GitHub Action with Argo CD for end to end CI/CD
-42. Resume preparation for the project
-43. Day to day tasks for the project in the resume
-44. Interview questions for the project
-45. Key takeaways of the project.
+42. Key takeaways of the project.
